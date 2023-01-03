@@ -1,0 +1,18 @@
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\bin\Release\PressureTraverseCurve.exe
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\bin\Release\PressureTraverseCurve.pdb
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Release\PressureTraverseCurve.csproj.AssemblyReference.cache
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Release\PressureTraverseCurve.Form1.resources
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Release\PressureTraverseCurve.Properties.Resources.resources
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Release\PressureTraverseCurve.csproj.GenerateResource.cache
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Release\PressureTraverseCurve.csproj.CoreCompileInputs.cache
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Release\PressureTraverseCurve.exe
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Release\PressureTraverseCurve.pdb
+F:\pressure_traverse_curve-master\PressureTraverseCurve\bin\Release\PressureTraverseCurve.exe.config
+F:\pressure_traverse_curve-master\PressureTraverseCurve\bin\Release\PressureTraverseCurve.exe
+F:\pressure_traverse_curve-master\PressureTraverseCurve\bin\Release\PressureTraverseCurve.pdb
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Release\PressureTraverseCurve.Form1.resources
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Release\PressureTraverseCurve.Properties.Resources.resources
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Release\PressureTraverseCurve.csproj.GenerateResource.cache
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Release\PressureTraverseCurve.csproj.CoreCompileInputs.cache
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Release\PressureTraverseCurve.exe
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Release\PressureTraverseCurve.pdb

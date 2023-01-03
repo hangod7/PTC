@@ -1,0 +1,31 @@
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.AssemblyReference.cache
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.Form1.resources
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.Properties.Resources.resources
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.GenerateResource.cache
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.CoreCompileInputs.cache
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\bin\Debug\PressureTraverseCurve.exe
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\bin\Debug\PressureTraverseCurve.pdb
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.exe
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.pdb
+F:\Jupiter_c\محرك جوبيتر\PressureTraverseCurve\PressureTraverseCurve\bin\Debug\PressureTraverseCurve.exe.config
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\bin\Debug\PressureTraverseCurve.exe.config
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\bin\Debug\PressureTraverseCurve.exe
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\bin\Debug\PressureTraverseCurve.pdb
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.AssemblyReference.cache
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.SuggestedBindingRedirects.cache
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.Form1.resources
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.Properties.Resources.resources
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.GenerateResource.cache
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.CoreCompileInputs.cache
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.exe
+C:\Users\omarh\Downloads\pressure_traverse_curve-master\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.pdb
+F:\pressure_traverse_curve-master\PressureTraverseCurve\bin\Debug\PressureTraverseCurve.exe.config
+F:\pressure_traverse_curve-master\PressureTraverseCurve\bin\Debug\PressureTraverseCurve.exe
+F:\pressure_traverse_curve-master\PressureTraverseCurve\bin\Debug\PressureTraverseCurve.pdb
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.AssemblyReference.cache
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.Form1.resources
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.Properties.Resources.resources
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.GenerateResource.cache
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.csproj.CoreCompileInputs.cache
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.exe
+F:\pressure_traverse_curve-master\PressureTraverseCurve\obj\Debug\PressureTraverseCurve.pdb
